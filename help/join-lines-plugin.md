@@ -5,6 +5,6 @@ but you can easily modify that in your `bindings.json` file:
 
 ```json
 {
-    "Alt-k": "joinLines.joinLines"
+    "Alt-k": "lua:joinLines.joinLines"
 }
 ```
